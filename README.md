@@ -6,18 +6,17 @@ MongoDB, Express.js, React.js, and Node.js.
 The CRM allows businesses to manage customer interactions, track leads, monitor sales pipelines, and improve client relationships—all in one place.
 
 🔧 Installation & Setup
-1.	Clone the repository:
-
+# Clone the repository
 git clone https://github.com/shkumar156/crm-main.git
 cd crm-main
 
-2.	Install dependencies:
+# Install dependencies
 npm install
 
-3.	Start the server:
+# Start the server
 npm start
 
-Run in development mode (client + server):
+# Run in development mode (client + server)
 npm run dev
 
 📚 About CRM
